@@ -1,0 +1,5 @@
+pandas
+requests
+alice_blue
+sqlalchemy
+pysqlite3
